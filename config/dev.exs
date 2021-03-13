@@ -2,7 +2,7 @@ use Mix.Config
 
 # Configure your database
 config :simetria, Simetria.Repo,
-  username: "postgres",
+  username: "lumizinski",
   password: "postgres",
   database: "simetria_dev",
   hostname: "localhost",
